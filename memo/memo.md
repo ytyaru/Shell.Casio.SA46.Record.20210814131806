@@ -1,11 +1,22 @@
+# 結果
+
+　[SA-46][]を手で演奏し、その結果を耳でリアルタイムに聞きつつ、[ラズパイ4][]で録音できた。
+
+* [demo](https://ytyaru.github.io/Shell.Casio.SA46.Record.20210814131806/)
+
 # 手順
 
 ## 必要なもの
 
-* [SA-46](https://www.amazon.co.jp/gp/product/B003KZBFIS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
-* [ラズパイ4](https://www.amazon.co.jp/gp/product/B095K5WTQ2/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
-* [UGREEN 30724 USBサウンドカード](https://www.amazon.co.jp/gp/product/B01N41607I/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
-* [KA333 ステレオケーブル（抵抗入り）](https://www.amazon.co.jp/gp/product/B000227SS8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+* [SA-46][]
+* [ラズパイ4][]
+* [UGREEN 30724 USBサウンドカード][]
+* [KA333 ステレオケーブル（抵抗入り）][]
+
+[SA-46]:https://www.amazon.co.jp/gp/product/B003KZBFIS/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+[ラズパイ4]:https://www.amazon.co.jp/gp/product/B095K5WTQ2/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+[UGREEN 30724 USBサウンドカード]:https://www.amazon.co.jp/gp/product/B01N41607I/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1
+[KA333 ステレオケーブル（抵抗入り）]:https://www.amazon.co.jp/gp/product/B000227SS8/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 
 ## 接続
 
