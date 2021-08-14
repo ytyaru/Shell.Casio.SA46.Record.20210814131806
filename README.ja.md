@@ -6,11 +6,12 @@
 
 # デモ
 
-![]()
+[![0](docs/assets/image/sa46-pi.jpg)](https://ytyaru.github.io/Shell.Casio.SA46.Record.20210814131806/)
 
-# 特徴
-
-* セールスポイント
+<!--
+![demo](https://ytyaru.github.io/Shell.Casio.SA46.Record.20210814131806/)
+![0](docs/assets/image/sa46-pi.jpg)
+-->
 
 # 開発環境
 
@@ -36,10 +37,6 @@ git clone https://github.com/ytyaru/Shell.Casio.SA46.Record.20210814131806
 cd Shell.Casio.SA46.Record.20210814131806/src
 ./run.sh
 ```
-
-# 注意
-
-* 注意点など
 
 # 著者
 

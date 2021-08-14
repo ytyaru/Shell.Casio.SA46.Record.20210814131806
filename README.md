@@ -6,11 +6,12 @@ Record the electronic piano SA-46 with Raspberry Pi.
 
 # DEMO
 
-![]()
+[![0](docs/assets/image/sa46-pi.jpg)](https://ytyaru.github.io/Shell.Casio.SA46.Record.20210814131806/)
 
-# Features
-
-* sales point
+<!--
+![demo](https://ytyaru.github.io/Shell.Casio.SA46.Record.20210814131806/)
+![0](docs/assets/image/sa46-pi.jpg)
+-->
 
 # Requirement
 
@@ -36,10 +37,6 @@ git clone https://github.com/ytyaru/Shell.Casio.SA46.Record.20210814131806
 cd Shell.Casio.SA46.Record.20210814131806/src
 ./run.sh
 ```
-
-# Note
-
-* important point
 
 # Author
 
